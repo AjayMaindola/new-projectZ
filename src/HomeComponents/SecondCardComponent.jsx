@@ -16,7 +16,7 @@ export default function SecondCardComponent() {
           Delhi NCR, based on trends
         </MainPera>
         <span className="relative">
-          <p className="text-red-500 font-Roboto font-light">
+          <p className="text-red-500 font-Roboto font-light relative">
             All collections in Delhi NCR{" "}
           </p>
           <IoMdArrowDropright className="absolute top-[0px] right-[-25px] text-[25px] text-red-500 " />
